@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+body {
+    background-color: black; /* Cor de fundo */
+    color: red; /* Cor do texto */
+}
+
+h1 {
+    color: red; /* Cor do título */
+}
+
+p {
+    color: red; /* Cor do parágrafo */
+}
+
+
